@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cesAna xmlns="http://www.xces.org/schema/2003" version="1.0.4">
+   <struct type="tok" from="38" to="40">
+      <feat name="base" value="mr"/>
+      <feat name="length" value="2"/>
+      <feat name="msd" value="NNP"/>
+   </struct>
+   <struct type="tok" from="40" to="41">
+      <feat name="base" value="."/>
+      <feat name="length" value="1"/>
+      <feat name="msd" value="."/>
+   </struct>
+   <struct type="tok" from="42" to="56">
+      <feat name="base" value="infrastructure"/>
+      <feat name="length" value="14"/>
+      <feat name="msd" value="NNP"/>
+   </struct>
+   <struct type="tok" from="57" to="65">
+      <feat name="msd" value="VBZ"/>
+      <feat name="length" value="8"/>
+      <feat name="affix" value="s"/>
+      <feat name="base" value="explain"/>
+   </struct>
+   <struct type="tok" from="66" to="68">
+      <feat name="base" value="it"/>
+      <feat name="length" value="2"/>
+      <feat name="msd" value="PRP"/>
+   </struct>
+   <struct type="tok" from="69" to="72">
+      <feat name="base" value="all"/>
+      <feat name="length" value="3"/>
+      <feat name="msd" value="DT"/>
+   </struct>
+   <struct type="tok" from="73" to="76">
+      <feat name="base" value="for"/>
+      <feat name="length" value="3"/>
+      <feat name="msd" value="IN"/>
+   </struct>
+   <struct type="tok" from="77" to="80">
+      <feat name="base" value="you"/>
+      <feat name="length" value="3"/>
+      <feat name="msd" value="PRP"/>
+   </struct>
+</cesAna>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cesHeader creator="KBS" date.created="2005-03-29" version="1.0.4" xmlns="http://www.xces.org/schema/2003">
+    <fileDesc>
+        <titleStmt>
+            <title>PAINTING</title>
+        </titleStmt>
+        <sourceDesc>
+            <biblStruct>
+                <monogr>
+                    <title>PAINTING</title>
+                    <imprint>
+                        <publisher>Linguistic Data Consortium</publisher>
+                        <pubPlace>USA</pubPlace>
+                        <pubDate>1992</pubDate>
+                    </imprint>
+                </monogr>
+            </biblStruct>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <textClass>
+            <subject>PAINTING</subject>
+            <audience>Adult</audience>
+            <medium>Spoken</medium>
+        </textClass>
+        <particDesc>
+            <person age="1941" id="spkr1130" role="caller" sex="F">Dialect : NORTHERN, Side : A, Education : 3, Partition : DT</person>
+            <person age="1956" id="spkr1020" role="callee" sex="F">Dialect : NORTH MIDLAND, Side : B, Education : 2, Partition : DN2</person>
+        </particDesc>
+        <settingDesc>
+            <setting who="spkr1130 spkr1020">
+                <time>910501 1200</time>
+                <activity>HAVE YOU DONE ANY PAINTING PROJECTS RECENTLY, EITHER INDOORS OR OUTDOORS? WHAT TYPES OF PAINTING ARE YOU WILLING TO TAKE ON BY YOURSELF? ARE YOU USUALLY SATISFIED WHEN YOU FINISH, OR DO YOU WISH YOU HIRED A PROFESSIONAL? SEE IF THE OTHER</activity>
+            </setting>
+        </settingDesc>
+        <annotations>
+            <annotation ann.loc="sw2748-ms98-a-trans.txt" type="content">Text content</annotation>
+            <annotation ann.loc="sw2748-ms98-a-trans-logical.xml" type="logical">Logical structure</annotation>
+            <annotation ann.loc="sw2748-ms98-a-trans-s.xml" type="s">Sentence boundaries</annotation>
+            <annotation ann.loc="sw2748-ms98-a-trans-hepple.xml" type="hepple">Hepple part of speech tags</annotation>
+            <annotation ann.loc="sw2748-ms98-a-trans-vp.xml" type="vp">Verb chunks</annotation>
+            <annotation ann.loc="sw2748-ms98-a-trans-np.xml" type="np">Noun chunks</annotation>
+        </annotations>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <changeDate>2005-03-29   </changeDate>
+            <respName>Keith Suderman</respName>
+            <item>Updated to v1.0.4 with complete standoff markup</item>
+            <item>Added Hepple part of speech tags</item>
+            <item>Fixed sentence boundaries</item>
+            <item>Added noun and verb chunks</item>
+        </change>
+        <change>
+            <changeData>2007-11-02</changeData>
+            <respName>Keith Suderman</respName>
+            <item>Added validated sentence annotations</item>
+        </change>
+        <change>
+            <changeData>2007-11-02</changeData>
+            <respName>Keith Suderman</respName>
+            <item>Added validated sentence annotations</item>
+        </change>
+    </revisionDesc>
+</cesHeader>

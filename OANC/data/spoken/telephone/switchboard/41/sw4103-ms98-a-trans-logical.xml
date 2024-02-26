@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cesAna xmlns="http://www.xces.org/schema/2003" version="1.0.4">
+   <struct type="cesDoc" from="0" to="5078">
+      <feat name="xmlns:xlink" value="http://www.w3.org/1999/xlink"/>
+      <feat name="xmlns:xsi" value="http://www.w3.org/2001/XMLSchema-instance"/>
+      <feat name="version" value="1.0"/>
+      <feat name="xmlns" value="http://www.xces.org/schema/2003"/>
+   </struct>
+   <struct type="body" from="10" to="5075"/>
+   <struct type="turn" from="13" to="22">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t1"/>
+   </struct>
+   <struct type="u" from="17" to="19">
+      <feat name="id" value="sw4103A-0001"/>
+      <feat name="end" value="0.380500"/>
+      <feat name="start" value="0.000000"/>
+   </struct>
+   <struct type="turn" from="25" to="34">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t2"/>
+   </struct>
+   <struct type="u" from="29" to="31">
+      <feat name="id" value="sw4103B-0001"/>
+      <feat name="end" value="0.523125"/>
+      <feat name="start" value="0.000000"/>
+   </struct>
+   <struct type="turn" from="37" to="283">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t3"/>
+   </struct>
+   <struct type="u" from="41" to="206">
+      <feat name="id" value="sw4103A-0002"/>
+      <feat name="end" value="9.998375"/>
+      <feat name="start" value="0.380500"/>
+   </struct>
+   <struct type="u" from="210" to="280">
+      <feat name="id" value="sw4103A-0003"/>
+      <feat name="end" value="13.987250"/>
+      <feat name="start" value="9.998375"/>
+   </struct>
+   <struct type="turn" from="286" to="577">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t4"/>
+   </struct>
+   <struct type="u" from="290" to="351">
+      <feat name="id" value="sw4103B-0003"/>
+      <feat name="end" value="18.083375"/>
+      <feat name="start" value="13.474250"/>
+   </struct>
+   <struct type="u" from="355" to="574">
+      <feat name="id" value="sw4103B-0004"/>
+      <feat name="end" value="32.366750"/>
+      <feat name="start" value="18.083375"/>
+   </struct>
+   <struct type="turn" from="580" to="799">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t5"/>
+   </struct>
+   <struct type="u" from="584" to="590">
+      <feat name="id" value="sw4103A-0005"/>
+      <feat name="end" value="29.323000"/>
+      <feat name="start" value="28.060000"/>
+   </struct>
+   <struct type="u" from="594" to="596">
+      <feat name="id" value="sw4103A-0007"/>
+      <feat name="end" value="33.052375"/>
+      <feat name="start" value="31.795500"/>
+   </struct>
+   <struct type="u" from="600" to="764">
+      <feat name="id" value="sw4103A-0008"/>
+      <feat name="end" value="41.779000"/>
+      <feat name="start" value="33.052375"/>
+   </struct>
+   <struct type="u" from="768" to="770">
+      <feat name="id" value="sw4103A-0010"/>
+      <feat name="end" value="43.734375"/>
+      <feat name="start" value="42.829000"/>
+   </struct>
+   <struct type="u" from="774" to="796">
+      <feat name="id" value="sw4103A-0011"/>
+      <feat name="end" value="45.410375"/>
+      <feat name="start" value="43.734375"/>
+   </struct>
+   <struct type="turn" from="802" to="815">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t6"/>
+   </struct>
+   <struct type="u" from="806" to="812">
+      <feat name="id" value="sw4103B-0006"/>
+      <feat name="end" value="46.430750"/>
+      <feat name="start" value="45.188875"/>
+   </struct>
+   <struct type="turn" from="818" to="907">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t7"/>
+   </struct>
+   <struct type="u" from="822" to="904">
+      <feat name="id" value="sw4103A-0012"/>
+      <feat name="end" value="49.872125"/>
+      <feat name="start" value="45.410375"/>
+   </struct>
+   <struct type="turn" from="910" to="1223">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t8"/>
+   </struct>
+   <struct type="u" from="914" to="925">
+      <feat name="id" value="sw4103B-0008"/>
+      <feat name="end" value="52.199750"/>
+      <feat name="start" value="49.855125"/>
+   </struct>
+   <struct type="u" from="929" to="996">
+      <feat name="id" value="sw4103B-0009"/>
+      <feat name="end" value="57.451750"/>
+      <feat name="start" value="52.199750"/>
+   </struct>
+   <struct type="u" from="1000" to="1099">
+      <feat name="id" value="sw4103B-0010"/>
+      <feat name="end" value="63.530000"/>
+      <feat name="start" value="57.451750"/>
+   </struct>
+   <struct type="u" from="1103" to="1220">
+      <feat name="id" value="sw4103B-0012"/>
+      <feat name="end" value="72.954625"/>
+      <feat name="start" value="64.837625"/>
+   </struct>
+   <struct type="turn" from="1226" to="1235">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t9"/>
+   </struct>
+   <struct type="u" from="1230" to="1232">
+      <feat name="id" value="sw4103A-0014"/>
+      <feat name="end" value="73.640875"/>
+      <feat name="start" value="72.587375"/>
+   </struct>
+   <struct type="turn" from="1238" to="1323">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t10"/>
+   </struct>
+   <struct type="u" from="1242" to="1320">
+      <feat name="id" value="sw4103B-0014"/>
+      <feat name="end" value="79.955000"/>
+      <feat name="start" value="74.116500"/>
+   </struct>
+   <struct type="turn" from="1326" to="1482">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t11"/>
+   </struct>
+   <struct type="u" from="1330" to="1413">
+      <feat name="id" value="sw4103A-0016"/>
+      <feat name="end" value="85.788125"/>
+      <feat name="start" value="79.939375"/>
+   </struct>
+   <struct type="u" from="1417" to="1479">
+      <feat name="id" value="sw4103A-0017"/>
+      <feat name="end" value="89.509750"/>
+      <feat name="start" value="85.788125"/>
+   </struct>
+   <struct type="turn" from="1485" to="1498">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t12"/>
+   </struct>
+   <struct type="u" from="1489" to="1495">
+      <feat name="id" value="sw4103B-0016"/>
+      <feat name="end" value="90.040250"/>
+      <feat name="start" value="88.828250"/>
+   </struct>
+   <struct type="turn" from="1501" to="1696">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t13"/>
+   </struct>
+   <struct type="u" from="1505" to="1552">
+      <feat name="id" value="sw4103A-0018"/>
+      <feat name="end" value="92.634625"/>
+      <feat name="start" value="89.509750"/>
+   </struct>
+   <struct type="u" from="1556" to="1604">
+      <feat name="id" value="sw4103A-0019"/>
+      <feat name="end" value="95.208875"/>
+      <feat name="start" value="92.634625"/>
+   </struct>
+   <struct type="u" from="1608" to="1693">
+      <feat name="id" value="sw4103A-0020"/>
+      <feat name="end" value="99.275750"/>
+      <feat name="start" value="95.208875"/>
+   </struct>
+   <struct type="turn" from="1699" to="1760">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t14"/>
+   </struct>
+   <struct type="u" from="1703" to="1757">
+      <feat name="id" value="sw4103B-0018"/>
+      <feat name="end" value="102.456875"/>
+      <feat name="start" value="99.511750"/>
+   </struct>
+   <struct type="turn" from="1763" to="1772">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t15"/>
+   </struct>
+   <struct type="u" from="1767" to="1769">
+      <feat name="id" value="sw4103A-0022"/>
+      <feat name="end" value="101.124000"/>
+      <feat name="start" value="100.275875"/>
+   </struct>
+   <struct type="turn" from="1775" to="2002">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t16"/>
+   </struct>
+   <struct type="u" from="1779" to="1882">
+      <feat name="id" value="sw4103B-0019"/>
+      <feat name="end" value="109.984500"/>
+      <feat name="start" value="102.456875"/>
+   </struct>
+   <struct type="u" from="1886" to="1999">
+      <feat name="id" value="sw4103B-0020"/>
+      <feat name="end" value="119.658000"/>
+      <feat name="start" value="109.984500"/>
+   </struct>
+   <struct type="turn" from="2005" to="2018">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t17"/>
+   </struct>
+   <struct type="u" from="2009" to="2015">
+      <feat name="id" value="sw4103A-0024"/>
+      <feat name="end" value="118.391000"/>
+      <feat name="start" value="117.186750"/>
+   </struct>
+   <struct type="turn" from="2021" to="2151">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t18"/>
+   </struct>
+   <struct type="u" from="2025" to="2148">
+      <feat name="id" value="sw4103B-0021"/>
+      <feat name="end" value="128.351750"/>
+      <feat name="start" value="119.658000"/>
+   </struct>
+   <struct type="turn" from="2154" to="2163">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t19"/>
+   </struct>
+   <struct type="u" from="2158" to="2160">
+      <feat name="id" value="sw4103A-0026"/>
+      <feat name="end" value="123.689625"/>
+      <feat name="start" value="122.639750"/>
+   </struct>
+   <struct type="turn" from="2166" to="2206">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t20"/>
+   </struct>
+   <struct type="u" from="2170" to="2203">
+      <feat name="id" value="sw4103B-0022"/>
+      <feat name="end" value="131.333500"/>
+      <feat name="start" value="128.351750"/>
+   </struct>
+   <struct type="turn" from="2209" to="2423">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t21"/>
+   </struct>
+   <struct type="u" from="2213" to="2215">
+      <feat name="id" value="sw4103A-0028"/>
+      <feat name="end" value="131.827250"/>
+      <feat name="start" value="130.612625"/>
+   </struct>
+   <struct type="u" from="2219" to="2230">
+      <feat name="id" value="sw4103A-0029"/>
+      <feat name="end" value="133.650625"/>
+      <feat name="start" value="131.827250"/>
+   </struct>
+   <struct type="u" from="2234" to="2282">
+      <feat name="id" value="sw4103A-0030"/>
+      <feat name="end" value="137.367625"/>
+      <feat name="start" value="133.650625"/>
+   </struct>
+   <struct type="u" from="2286" to="2420">
+      <feat name="id" value="sw4103A-0031"/>
+      <feat name="end" value="144.513000"/>
+      <feat name="start" value="137.367625"/>
+   </struct>
+   <struct type="turn" from="2426" to="2439">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t22"/>
+   </struct>
+   <struct type="u" from="2430" to="2436">
+      <feat name="id" value="sw4103B-0024"/>
+      <feat name="end" value="143.092125"/>
+      <feat name="start" value="141.927500"/>
+   </struct>
+   <struct type="turn" from="2442" to="2587">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t23"/>
+   </struct>
+   <struct type="u" from="2446" to="2527">
+      <feat name="id" value="sw4103A-0032"/>
+      <feat name="end" value="148.577750"/>
+      <feat name="start" value="144.513000"/>
+   </struct>
+   <struct type="u" from="2531" to="2533">
+      <feat name="id" value="sw4103A-0033"/>
+      <feat name="end" value="149.503125"/>
+      <feat name="start" value="148.577750"/>
+   </struct>
+   <struct type="u" from="2537" to="2584">
+      <feat name="id" value="sw4103A-0034"/>
+      <feat name="end" value="151.973125"/>
+      <feat name="start" value="149.503125"/>
+   </struct>
+   <struct type="turn" from="2590" to="2603">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t24"/>
+   </struct>
+   <struct type="u" from="2594" to="2600">
+      <feat name="id" value="sw4103B-0026"/>
+      <feat name="end" value="152.967750"/>
+      <feat name="start" value="151.877000"/>
+   </struct>
+   <struct type="turn" from="2606" to="2653">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t25"/>
+   </struct>
+   <struct type="u" from="2610" to="2644">
+      <feat name="id" value="sw4103A-0036"/>
+      <feat name="end" value="155.963625"/>
+      <feat name="start" value="153.138250"/>
+   </struct>
+   <struct type="u" from="2648" to="2650">
+      <feat name="id" value="sw4103A-0037"/>
+      <feat name="end" value="157.698000"/>
+      <feat name="start" value="155.963625"/>
+   </struct>
+   <struct type="turn" from="2656" to="2872">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t26"/>
+   </struct>
+   <struct type="u" from="2660" to="2814">
+      <feat name="id" value="sw4103B-0028"/>
+      <feat name="end" value="165.491625"/>
+      <feat name="start" value="156.008500"/>
+   </struct>
+   <struct type="u" from="2818" to="2820">
+      <feat name="id" value="sw4103B-0029"/>
+      <feat name="end" value="167.110125"/>
+      <feat name="start" value="165.491625"/>
+   </struct>
+   <struct type="u" from="2824" to="2869">
+      <feat name="id" value="sw4103B-0030"/>
+      <feat name="end" value="170.800000"/>
+      <feat name="start" value="167.110125"/>
+   </struct>
+   <struct type="turn" from="2875" to="2884">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t27"/>
+   </struct>
+   <struct type="u" from="2879" to="2881">
+      <feat name="id" value="sw4103A-0039"/>
+      <feat name="end" value="171.187875"/>
+      <feat name="start" value="170.100000"/>
+   </struct>
+   <struct type="turn" from="2887" to="3032">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t28"/>
+   </struct>
+   <struct type="u" from="2891" to="3029">
+      <feat name="id" value="sw4103B-0031"/>
+      <feat name="end" value="180.449750"/>
+      <feat name="start" value="170.800000"/>
+   </struct>
+   <struct type="turn" from="3035" to="3044">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t29"/>
+   </struct>
+   <struct type="u" from="3039" to="3041">
+      <feat name="id" value="sw4103A-0041"/>
+      <feat name="end" value="180.661500"/>
+      <feat name="start" value="179.501000"/>
+   </struct>
+   <struct type="turn" from="3047" to="3095">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t30"/>
+   </struct>
+   <struct type="u" from="3051" to="3092">
+      <feat name="id" value="sw4103B-0032"/>
+      <feat name="end" value="183.477375"/>
+      <feat name="start" value="180.449750"/>
+   </struct>
+   <struct type="turn" from="3098" to="3190">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t31"/>
+   </struct>
+   <struct type="u" from="3102" to="3118">
+      <feat name="id" value="sw4103A-0043"/>
+      <feat name="end" value="184.735000"/>
+      <feat name="start" value="183.320125"/>
+   </struct>
+   <struct type="u" from="3122" to="3128">
+      <feat name="id" value="sw4103A-0045"/>
+      <feat name="end" value="186.766250"/>
+      <feat name="start" value="185.742000"/>
+   </struct>
+   <struct type="u" from="3132" to="3181">
+      <feat name="id" value="sw4103A-0046"/>
+      <feat name="end" value="190.466750"/>
+      <feat name="start" value="186.766250"/>
+   </struct>
+   <struct type="u" from="3185" to="3187">
+      <feat name="id" value="sw4103A-0047"/>
+      <feat name="end" value="191.604375"/>
+      <feat name="start" value="190.466750"/>
+   </struct>
+   <struct type="turn" from="3193" to="3212">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t32"/>
+   </struct>
+   <struct type="u" from="3197" to="3209">
+      <feat name="id" value="sw4103B-0034"/>
+      <feat name="end" value="192.143625"/>
+      <feat name="start" value="190.497750"/>
+   </struct>
+   <struct type="turn" from="3215" to="3226">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t33"/>
+   </struct>
+   <struct type="u" from="3219" to="3223">
+      <feat name="id" value="sw4103A-0048"/>
+      <feat name="end" value="192.896875"/>
+      <feat name="start" value="191.604375"/>
+   </struct>
+   <struct type="turn" from="3229" to="3249">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t34"/>
+   </struct>
+   <struct type="u" from="3233" to="3246">
+      <feat name="id" value="sw4103B-0035"/>
+      <feat name="end" value="193.531375"/>
+      <feat name="start" value="192.143625"/>
+   </struct>
+   <struct type="turn" from="3252" to="3462">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t35"/>
+   </struct>
+   <struct type="u" from="3256" to="3278">
+      <feat name="id" value="sw4103A-0049"/>
+      <feat name="end" value="195.190000"/>
+      <feat name="start" value="192.896875"/>
+   </struct>
+   <struct type="u" from="3282" to="3416">
+      <feat name="id" value="sw4103A-0050"/>
+      <feat name="end" value="201.000000"/>
+      <feat name="start" value="195.190000"/>
+   </struct>
+   <struct type="u" from="3420" to="3459">
+      <feat name="id" value="sw4103A-0052"/>
+      <feat name="end" value="204.567875"/>
+      <feat name="start" value="202.000000"/>
+   </struct>
+   <struct type="turn" from="3465" to="3478">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t36"/>
+   </struct>
+   <struct type="u" from="3469" to="3475">
+      <feat name="id" value="sw4103B-0037"/>
+      <feat name="end" value="205.402000"/>
+      <feat name="start" value="204.253750"/>
+   </struct>
+   <struct type="turn" from="3481" to="3659">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t37"/>
+   </struct>
+   <struct type="u" from="3485" to="3487">
+      <feat name="id" value="sw4103A-0053"/>
+      <feat name="end" value="205.841750"/>
+      <feat name="start" value="204.567875"/>
+   </struct>
+   <struct type="u" from="3491" to="3521">
+      <feat name="id" value="sw4103A-0054"/>
+      <feat name="end" value="208.368250"/>
+      <feat name="start" value="205.841750"/>
+   </struct>
+   <struct type="u" from="3525" to="3527">
+      <feat name="id" value="sw4103A-0056"/>
+      <feat name="end" value="210.376125"/>
+      <feat name="start" value="209.470250"/>
+   </struct>
+   <struct type="u" from="3531" to="3656">
+      <feat name="id" value="sw4103A-0057"/>
+      <feat name="end" value="218.911875"/>
+      <feat name="start" value="210.376125"/>
+   </struct>
+   <struct type="turn" from="3662" to="3777">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t38"/>
+   </struct>
+   <struct type="u" from="3666" to="3728">
+      <feat name="id" value="sw4103B-0039"/>
+      <feat name="end" value="225.543000"/>
+      <feat name="start" value="219.867500"/>
+   </struct>
+   <struct type="u" from="3732" to="3734">
+      <feat name="id" value="sw4103B-0040"/>
+      <feat name="end" value="226.850000"/>
+      <feat name="start" value="225.543000"/>
+   </struct>
+   <struct type="u" from="3738" to="3774">
+      <feat name="id" value="sw4103B-0041"/>
+      <feat name="end" value="229.898875"/>
+      <feat name="start" value="226.850000"/>
+   </struct>
+   <struct type="turn" from="3780" to="3834">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t39"/>
+   </struct>
+   <struct type="u" from="3784" to="3831">
+      <feat name="id" value="sw4103A-0059"/>
+      <feat name="end" value="232.974250"/>
+      <feat name="start" value="229.086875"/>
+   </struct>
+   <struct type="turn" from="3837" to="3962">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t40"/>
+   </struct>
+   <struct type="u" from="3841" to="3880">
+      <feat name="id" value="sw4103B-0043"/>
+      <feat name="end" value="236.193500"/>
+      <feat name="start" value="233.322750"/>
+   </struct>
+   <struct type="u" from="3884" to="3886">
+      <feat name="id" value="sw4103B-0044"/>
+      <feat name="end" value="237.607250"/>
+      <feat name="start" value="236.193500"/>
+   </struct>
+   <struct type="u" from="3890" to="3959">
+      <feat name="id" value="sw4103B-0045"/>
+      <feat name="end" value="241.993500"/>
+      <feat name="start" value="237.607250"/>
+   </struct>
+   <struct type="turn" from="3965" to="3978">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t41"/>
+   </struct>
+   <struct type="u" from="3969" to="3975">
+      <feat name="id" value="sw4103A-0061"/>
+      <feat name="end" value="241.993875"/>
+      <feat name="start" value="240.606375"/>
+   </struct>
+   <struct type="turn" from="3981" to="3992">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t42"/>
+   </struct>
+   <struct type="u" from="3985" to="3989">
+      <feat name="id" value="sw4103B-0046"/>
+      <feat name="end" value="243.465625"/>
+      <feat name="start" value="241.993500"/>
+   </struct>
+   <struct type="turn" from="3995" to="4044">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t43"/>
+   </struct>
+   <struct type="u" from="3999" to="4041">
+      <feat name="id" value="sw4103A-0062"/>
+      <feat name="end" value="245.009625"/>
+      <feat name="start" value="241.993875"/>
+   </struct>
+   <struct type="turn" from="4047" to="4075">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t44"/>
+   </struct>
+   <struct type="u" from="4051" to="4072">
+      <feat name="id" value="sw4103B-0047"/>
+      <feat name="end" value="245.561250"/>
+      <feat name="start" value="243.465625"/>
+   </struct>
+   <struct type="turn" from="4078" to="4182">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t45"/>
+   </struct>
+   <struct type="u" from="4082" to="4179">
+      <feat name="id" value="sw4103A-0064"/>
+      <feat name="end" value="251.189375"/>
+      <feat name="start" value="246.020875"/>
+   </struct>
+   <struct type="turn" from="4185" to="4198">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t46"/>
+   </struct>
+   <struct type="u" from="4189" to="4195">
+      <feat name="id" value="sw4103B-0049"/>
+      <feat name="end" value="251.860625"/>
+      <feat name="start" value="250.645625"/>
+   </struct>
+   <struct type="turn" from="4201" to="4344">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t47"/>
+   </struct>
+   <struct type="u" from="4205" to="4236">
+      <feat name="id" value="sw4103A-0065"/>
+      <feat name="end" value="253.321250"/>
+      <feat name="start" value="251.189375"/>
+   </struct>
+   <struct type="u" from="4240" to="4301">
+      <feat name="id" value="sw4103A-0066"/>
+      <feat name="end" value="258.549125"/>
+      <feat name="start" value="253.321250"/>
+   </struct>
+   <struct type="u" from="4305" to="4341">
+      <feat name="id" value="sw4103A-0067"/>
+      <feat name="end" value="261.770000"/>
+      <feat name="start" value="258.549125"/>
+   </struct>
+   <struct type="turn" from="4347" to="4360">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t48"/>
+   </struct>
+   <struct type="u" from="4351" to="4357">
+      <feat name="id" value="sw4103B-0051"/>
+      <feat name="end" value="262.404125"/>
+      <feat name="start" value="261.163625"/>
+   </struct>
+   <struct type="turn" from="4363" to="4427">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t49"/>
+   </struct>
+   <struct type="u" from="4367" to="4424">
+      <feat name="id" value="sw4103A-0068"/>
+      <feat name="end" value="264.562250"/>
+      <feat name="start" value="261.770000"/>
+   </struct>
+   <struct type="turn" from="4430" to="4492">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t50"/>
+   </struct>
+   <struct type="u" from="4434" to="4489">
+      <feat name="id" value="sw4103B-0053"/>
+      <feat name="end" value="268.963000"/>
+      <feat name="start" value="265.322125"/>
+   </struct>
+   <struct type="turn" from="4495" to="4600">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t51"/>
+   </struct>
+   <struct type="u" from="4499" to="4503">
+      <feat name="id" value="sw4103A-0070"/>
+      <feat name="end" value="266.758125"/>
+      <feat name="start" value="265.617750"/>
+   </struct>
+   <struct type="u" from="4507" to="4509">
+      <feat name="id" value="sw4103A-0072"/>
+      <feat name="end" value="270.245125"/>
+      <feat name="start" value="268.991000"/>
+   </struct>
+   <struct type="u" from="4513" to="4597">
+      <feat name="id" value="sw4103A-0073"/>
+      <feat name="end" value="275.461625"/>
+      <feat name="start" value="270.245125"/>
+   </struct>
+   <struct type="turn" from="4603" to="4616">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t52"/>
+   </struct>
+   <struct type="u" from="4607" to="4613">
+      <feat name="id" value="sw4103B-0055"/>
+      <feat name="end" value="276.167750"/>
+      <feat name="start" value="274.867250"/>
+   </struct>
+   <struct type="turn" from="4619" to="4842">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t53"/>
+   </struct>
+   <struct type="u" from="4623" to="4625">
+      <feat name="id" value="sw4103A-0074"/>
+      <feat name="end" value="276.759625"/>
+      <feat name="start" value="275.461625"/>
+   </struct>
+   <struct type="u" from="4629" to="4650">
+      <feat name="id" value="sw4103A-0075"/>
+      <feat name="end" value="278.312250"/>
+      <feat name="start" value="276.759625"/>
+   </struct>
+   <struct type="u" from="4654" to="4839">
+      <feat name="id" value="sw4103A-0076"/>
+      <feat name="end" value="287.955000"/>
+      <feat name="start" value="278.312250"/>
+   </struct>
+   <struct type="turn" from="4845" to="4858">
+      <feat name="who" value="B"/>
+      <feat name="id" value="t54"/>
+   </struct>
+   <struct type="u" from="4849" to="4855">
+      <feat name="id" value="sw4103B-0057"/>
+      <feat name="end" value="288.493000"/>
+      <feat name="start" value="287.471625"/>
+   </struct>
+   <struct type="turn" from="4861" to="5071">
+      <feat name="who" value="A"/>
+      <feat name="id" value="t55"/>
+   </struct>
+   <struct type="u" from="4865" to="4930">
+      <feat name="id" value="sw4103A-0077"/>
+      <feat name="end" value="291.687875"/>
+      <feat name="start" value="287.955000"/>
+   </struct>
+   <struct type="u" from="4934" to="5067">
+      <feat name="id" value="sw4103A-0078"/>
+      <feat name="end" value="299.394000"/>
+      <feat name="start" value="291.687875"/>
+   </struct>
+</cesAna>

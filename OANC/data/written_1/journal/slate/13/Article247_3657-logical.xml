@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cesAna xmlns="http://www.xces.org/schema/2003" version="1.0.4">
+   <struct type="cesDoc" from="0" to="1984">
+      <feat name="xmlns:xlink" value="http://www.w3.org/1999/xlink"/>
+      <feat name="xmlns:xsi" value="http://www.w3.org/2001/XMLSchema-instance"/>
+      <feat name="xmlns" value="http://www.xces.org/schema/2003"/>
+      <feat name="version" value="1.0.4"/>
+   </struct>
+   <struct type="text" from="8" to="1983"/>
+   <struct type="body" from="15" to="1979"/>
+   <struct type="head" from="38" to="57">
+      <feat name="type" value="headline"/>
+   </struct>
+   <struct type="p" from="84" to="368">
+      <feat name="id" value="p1"/>
+   </struct>
+   <struct type="p" from="382" to="475">
+      <feat name="id" value="p2"/>
+   </struct>
+   <struct type="list" from="489" to="1446">
+      <feat name="rend" value="ordered"/>
+   </struct>
+   <struct type="item" from="506" to="621"/>
+   <struct type="hi" from="525" to="619">
+      <feat name="rend" value="emph"/>
+      <feat name="type" value="emphasis"/>
+   </struct>
+   <struct type="item" from="638" to="986"/>
+   <struct type="hi" from="657" to="724">
+      <feat name="rend" value="emph"/>
+      <feat name="type" value="emphasis"/>
+   </struct>
+   <struct type="item" from="1003" to="1432"/>
+   <struct type="hi" from="1022" to="1120">
+      <feat name="rend" value="emph"/>
+      <feat name="type" value="emphasis"/>
+   </struct>
+   <struct type="p" from="1460" to="1933">
+      <feat name="id" value="p3"/>
+   </struct>
+   <struct type="p" from="1947" to="1961">
+      <feat name="id" value="p4"/>
+   </struct>
+</cesAna>

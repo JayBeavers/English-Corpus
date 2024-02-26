@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cesHeader creator="KBS" date.created="2005-03-29" version="1.0.4" xmlns="http://www.xces.org/schema/2003">
+    <fileDesc>
+        <titleStmt>
+            <title>FAMILY LIFE</title>
+        </titleStmt>
+        <sourceDesc>
+            <biblStruct>
+                <monogr>
+                    <title>FAMILY LIFE</title>
+                    <imprint>
+                        <publisher>Linguistic Data Consortium</publisher>
+                        <pubPlace>USA</pubPlace>
+                        <pubDate>1992</pubDate>
+                    </imprint>
+                </monogr>
+            </biblStruct>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <textClass>
+            <subject>FAMILY LIFE</subject>
+            <audience>Adult</audience>
+            <medium>Spoken</medium>
+        </textClass>
+        <particDesc>
+            <person age="1969" id="spkr1449" role="caller" sex="M">Dialect : SOUTH MIDLAND, Side : A, Education : 2, Partition : XP</person>
+            <person age="1955" id="spkr1372" role="callee" sex="F">Dialect : WESTERN, Side : B, Education : 2, Partition : ET</person>
+        </particDesc>
+        <settingDesc>
+            <setting who="spkr1449 spkr1372">
+                <time>911228 1109</time>
+                <activity>IF YOU HAVE CHILDREN, CAN YOU DESCRIBE HOW MUCH TIME YOU AND YOUR SPOUSE SPEND WITH THEM, AND WHAT ACTIVITIES YOU ALL DO TOGETHER? IS IT DIFFICULT TO FIND TIME FOR THESE KINDS OF ACTIVITIES? WHAT DO YOU THINK ARE THE CURRENT TRENDS IN THE</activity>
+            </setting>
+        </settingDesc>
+        <annotations>
+            <annotation ann.loc="sw3630-ms98-a-trans.txt" type="content">Text content</annotation>
+            <annotation ann.loc="sw3630-ms98-a-trans-logical.xml" type="logical">Logical structure</annotation>
+            <annotation ann.loc="sw3630-ms98-a-trans-s.xml" type="s">Sentence boundaries</annotation>
+            <annotation ann.loc="sw3630-ms98-a-trans-hepple.xml" type="hepple">Hepple part of speech tags</annotation>
+            <annotation ann.loc="sw3630-ms98-a-trans-vp.xml" type="vp">Verb chunks</annotation>
+            <annotation ann.loc="sw3630-ms98-a-trans-np.xml" type="np">Noun chunks</annotation>
+        </annotations>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <changeDate>2005-03-29   </changeDate>
+            <respName>Keith Suderman</respName>
+            <item>Updated to v1.0.4 with complete standoff markup</item>
+            <item>Added Hepple part of speech tags</item>
+            <item>Fixed sentence boundaries</item>
+            <item>Added noun and verb chunks</item>
+        </change>
+        <change>
+            <changeData>2007-11-02</changeData>
+            <respName>Keith Suderman</respName>
+            <item>Added validated sentence annotations</item>
+        </change>
+        <change>
+            <changeData>2007-11-02</changeData>
+            <respName>Keith Suderman</respName>
+            <item>Added validated sentence annotations</item>
+        </change>
+    </revisionDesc>
+</cesHeader>
